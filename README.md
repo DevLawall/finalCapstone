@@ -8,4 +8,8 @@ To install, simply download task_manager_improved.py. Downloading the other file
 
 Use task_manager_improved.py by running it in your IDE of choice and interacting with it by entering the appropriate commands into the terminal.
 
+![Correct password enforcement](https://github.com/DevLawall/finalCapstone/assets/134338669/20d434a3-475d-4e62-abd0-37e6a47e56c4)
+![Main menu for admin user](https://github.com/DevLawall/finalCapstone/assets/134338669/80ff55ac-3870-49cc-9af4-b71729c4637a)
+![Task view and selection](https://github.com/DevLawall/finalCapstone/assets/134338669/bf101c5f-676a-4abf-89c1-ee56529b73f9)
+
 task_manager_improved.py is based on task_manager.py by HyperionDev: https://www.hyperiondev.com/
