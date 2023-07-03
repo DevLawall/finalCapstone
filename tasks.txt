@@ -1,0 +1,20 @@
+admin;Task Check;Probe functionality of the task system;2023-05-25;2023-06-24;Yes
+admin;Begin Development;Start everything up;2023-04-02;2023-06-24;Yes
+admin;Further Investigation;Conduct additional tests on the program;2023-08-04;2023-06-24;Yes
+admin;Task Logging;Add tasks for self & other users;2023-07-14;2023-06-24;Yes
+admin;Task Log Meeting;Hold a meeting to discuss the task log system;2023-07-05;2023-06-24;Yes
+admin;Training Materials Distribution;Provide instructional assets to users regarding the task manager;2023-07-27;2023-06-24;Yes
+Bob;Administrative Assistance;Help the admin test the task manager;2023-06-20;2023-06-24;Yes
+Bob;Reports Debugging;Debug the report-generating functionality of the program;2023-07-21;2023-06-24;Yes
+Bob;Stock Take;Run inventory for office electronics;2023-08-01;2023-06-24;No
+Cara;Stakeholder Meeting;Write up a report based on the recent stakeholder meetup;2023-05-21;2023-06-24;No
+Cara;Budgeting;Prepare a budget report for the next quarter;2023-06-02;2023-06-24;No
+Cara;2023 Q1 Financial Report;Prepare a financial report for 2023's first quarter;2023-07-01;2023-06-24;No
+Cara;Job Adverts;Prepare the job adverts for new team members, to be posted to online boards;2023-07-25;2023-06-24;No
+Dot;Vending Machine;Order a restock of the office vending machine;2023-06-01;2023-06-24;No
+Dot;Expenses Reports;Process expenses reports submitted by employees;2023-06-14;2023-06-24;No
+Dot;Charitable Liaisons;Set up a meeting to discuss ideas for upcoming projects with charity partners;2023-06-04;2023-06-24;No
+Dot;Restore from Backup;Restore data from our backups following the recent security breach;2023-05-30;2023-06-24;No
+Farah;Partnership Pitch;Prepare to pitch our services to prospective business partners;2023-07-19;2023-06-24;Yes
+Farah;Marketing Meeting;Iron out our marketing campaign, to run in late 2023;2023-08-25;2023-06-24;No
+Farah;Security Tightening;Increase our data security to prevent further breaches;2023-06-08;2023-06-24;No

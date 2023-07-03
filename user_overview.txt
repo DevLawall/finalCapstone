@@ -1,0 +1,52 @@
+Total users registered:	6
+Total tasks tracked:	20
+----------------------------------------
+
+Task history for:       admin
+Number of assigned tasks:       6
+Assigned/total task ratio:      30%
+Completed/assigned task ratio:  100%
+Incomplete/assigned task ratio: 0%
+Overdue/assigned task ratio:    0%
+----------------------------------------
+
+Task history for:       Bob
+Number of assigned tasks:       3
+Assigned/total task ratio:      15%
+Completed/assigned task ratio:  66.67%
+Incomplete/assigned task ratio: 33.33%
+Overdue/assigned task ratio:    0%
+----------------------------------------
+
+Task history for:       Cara
+Number of assigned tasks:       4
+Assigned/total task ratio:      20%
+Completed/assigned task ratio:  0%
+Incomplete/assigned task ratio: 100%
+Overdue/assigned task ratio:    50%
+----------------------------------------
+
+Task history for:       Dot
+Number of assigned tasks:       4
+Assigned/total task ratio:      20%
+Completed/assigned task ratio:  0%
+Incomplete/assigned task ratio: 100%
+Overdue/assigned task ratio:    100%
+----------------------------------------
+
+Task history for:       Ellis
+Number of assigned tasks:       0
+Assigned/total task ratio:      0%
+Completed/assigned task ratio:  0%
+Incomplete/assigned task ratio: 0%
+Overdue/assigned task ratio:    0%
+----------------------------------------
+
+Task history for:       Farah
+Number of assigned tasks:       3
+Assigned/total task ratio:      15%
+Completed/assigned task ratio:  33.33%
+Incomplete/assigned task ratio: 66.67%
+Overdue/assigned task ratio:    33.33%
+----------------------------------------
+
